@@ -1,1 +1,2 @@
-project="PROJECT_ID"
+project = "iac-terraform-gitops"
+
